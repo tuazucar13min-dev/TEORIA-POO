@@ -1,0 +1,27 @@
+¿Qué son los Patrones GoF y por qué son importantes en el desarrollo de software?
+Son un conjunto de patrones de diseño, estos patrones son soluciones probadas y comprobadas para problemas comunes que se presentan al diseñar software orientado a objetos.
+¿En que ayudan los Patrones GoF?
+Ayudan a mejorar la modularidad, flexibilidad y mantenibilidad del código.
+
+Existen 23 patrones de diseño GoF, que se dividen en tres categorías principales:
+•	Patrones de Creación
+1.	Singleton (Singleton)
+2.	Factory Method (Método de Fábrica)
+3.	Abstract Factory (Fábrica Abstracta)
+
+•	Patrones de Estructura
+1.	Adapter (Adaptador): Permite que interfaces incompatibles trabajen juntas.
+2.	Decorator (Decorador): Adjunta responsabilidades adicionales a un objeto dinámicamente.
+3.	Composite (Compuesto): Compone objetos en estructuras de árbol para representar jerarquías de parte-todo.
+4.	Proxy (Proxy): Proporciona un sustituto o marcador de posición para otro objeto para controlar el acceso a él.
+5.	Bridge (Puente): Separa una abstracción de su implementación, permitiendo que ambas varíen de manera independiente.
+6.	Flyweight (Peso Ligero): Minimiza el uso de memoria o almacenamiento compartiendo lo más posible con objetos relacionados.
+
+•	Patrones de Comportamiento
+1.	Observer (Observador): Define una dependencia uno a muchos entre objetos de modo que cuando un objeto cambia su estado, todos sus dependientes son notificados y actualizados automáticamente.
+2.	Strategy (Estrategia): Define una familia de algoritmos, los encapsula y los hace intercambiables.
+3.	Command (Comando): Encapsula una solicitud como un objeto.
+4.	State (Estado): Permite que un objeto altere su comportamiento cuando su estado interno cambia.
+5.	Chain of Responsibility (Cadena de Responsabilidad): Pasa la solicitud a lo largo de una cadena de manejadores.
+6.	Interpreter (Intérprete): Define una gramática para un lenguaje y proporciona un intérprete para interpretar sentencias en ese lenguaje.
+7.	Visitor (Visitante): Representa una operación que se realiza en los elementos de una estructura de objetos
